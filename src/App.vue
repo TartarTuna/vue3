@@ -5,6 +5,8 @@
 <style>
 #app {
   margin-top: 60px;
+  width: 100px;
+  height: 200px;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   text-align: center;
   color: #2c3e50;
